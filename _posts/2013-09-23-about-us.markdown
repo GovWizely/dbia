@@ -1,0 +1,51 @@
+---
+permalink: "about-us.html"
+layout: template
+title: "About Us"
+published: true
+---
+
+
+#About the International Trade Administration
+
+##Overview
+<p>The International Trade Administration (ITA) strengthens the competitiveness of U.S. industry, promotes trade and investment, and ensures fair trade through the rigorous enforcement of our trade laws and agreements. ITA works to improve the global business environment and helps U.S. organizations compete at home and abroad. ITA supports President Obama’s recovery agenda and the <a href="nei/index.asp">National Export Initiative</a> to sustain economic growth and support American jobs.</p>
+<p>ITA is organized into four distinct but complementary business units:</p>
+<p><a href="cs/"><strong>U.S. and Foreign Commercial Service</strong></a> — Promotes U.S. exports, particularly by small and medium-sized enterprises, and provides commercial diplomacy support for U.S. business interests around the world.</p>
+<p><a href="mas/"><strong>Manufacturing and Services</strong></a> — Strengthens U.S. competitiveness abroad by helping shape industry-specific trade policy.</p>
+<p><a href="mac/"><strong>Market Access and Compliance</strong></a> — Assists U.S. companies and helps create trade opportunities through the removal of market access barriers.</p>
+<p><a href="ia/"><strong>Import Administration</strong></a> — Enforces U.S. trade laws and agreements to prevent unfairly traded imports and to safeguard the competitive strength of U.S. businesses.</p>
+<h2><strong>More about ITA</strong></h2>
+<ul>
+<li><a href="press/bios/index.asp">ITA Senior Staff</a></li>
+<li><a href="http://www.ita.doc.gov/ooms/itawrc.htm">ITA Organization Charts</a></li>
+<li><a href="http://trade.gov/cfo">Chief Financial Officer &amp; Office of Administration</a></li>
+<li><a href="http://trade.gov/PDFs/strategic-plan.pdf">Strategic Plan</a></li>
+<li><a href="http://www.trade.gov/omo/PMA/OrgOrd/OOMS_PM_DOOSDOAS_Landing.asp">Organizational Structure, Mission, and Statutory Authority</a></li>
+<li><a href="http://www.ita.doc.gov/ITAiqs.pdf">Information Quality Guidelines</a></li>
+<li><a href="privacy.asp">Privacy Policy</a></li>
+<li><a href="http://www.trade.gov/foia">FOIA</a></li>
+<li><a href="http://www.osec.doc.gov/ocr/nofear/nofear.htm">No FEAR Act</a></li>
+<li><a href="http://www.ita.doc.gov/hrm/documents/eeo_policy_statement.pdf">EEO/Diversity Policy Statement</a></li>
+</ul>
+<h3><strong>About the Department of Commerce</strong></h3>
+<ul>
+<li><a href="http://www.commerce.gov" target="_blank">Department of Commerce</a></li>
+<li><a href="http://www.osec.doc.gov/bmi/budget/budgetsub_perf_strategicplans.htm" target="_blank">Department of Commerce Strategic Plan and Annual Performance Plans </a></li>
+<li><a href="http://204.193.232.34/cgi-bin/doit.cgi?204:112:ca6ff65e72b6f38e4fe42ea2ba9cf9358ad6df26eae063a68a6e8f420a9ac897:245" target="_blank">Department of Commerce Organizational Structure, Mission and Statutory Authority </a></li>
+<li><a href="http://ocio.os.doc.gov/ITPolicyandPrograms/Information_Collection/PROD01_001987" target="_blank">Department of Commerce Point of Contact for Small Business </a></li>
+<li><a href="http://www.osec.doc.gov/ocr/nofear/nofear.htm" target="_blank">No FEAR Act </a></li>
+</ul>
+<h3><strong>About the Federal Government</strong></h3>
+<ul>
+<li><a href="http://www.usa.gov" target="_blank">USA.gov</a></li>
+</ul>
+<h3><strong>Other ITA Managed Websites</strong></h3>
+<ul>
+<li><a href="http://www.export.gov">Export.gov</a></li>
+<li><a href="http://www.BuyUSA.gov">BuyUSA.gov</a></li>
+<li><a href="http://www.InvestAmerica.gov">InvestAmerica.gov</a></li>
+<li><a href="http://www.agoa.gov">AGOA.gov</a></li>
+<li><a href="http://www.stopfakes.gov">Stopfakes.gov</a></li>
+</ul>
+
