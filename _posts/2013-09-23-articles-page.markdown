@@ -27,12 +27,14 @@ The Millennium Challenge Corporation lists <a href="http://www.mcc.gov/pages/bus
 <a href="http://export.gov/static/Senegal%20agribusiness%20rev1_Latest_eg_main_059585.pdf">Senegal: Agribusiness</a> (pdf)</li>
 <li>
 <a href="http://export.gov/static/Sierra%20Leone%20investment%20agriculture_Latest_eg_main_059586.pdf">Sierra Leone: Investment Agriculture</a> (pdf)</li>
-</ul><strong>Major Funded Projects</strong>
+</ul>
+<strong>Major Funded Projects</strong>
 <strong>South Africa </strong>
 <ul>
 <li><a href="http://www.armscor.co.za/">Armscor</a></li>
 <li><a href="http://www.transnet.co.za/BusinessWithUs/TenderDocuments.aspx">Transnet</a></li>
-</ul><p><strong>Region</strong></p>
+</ul>
+<p><strong>Region</strong></p>
 <ul>
 <li><a href="http://www.afdb.org/en/projects-and-operations/">African Development Bank (AfDB)</a></li>
 <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/0,,menuPK:51563~pagePK:95873~piPK:95910~theSitePK:40941,00.html">World Bank</a></li>
