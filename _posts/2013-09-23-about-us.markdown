@@ -6,46 +6,37 @@ published: true
 ---
 
 
-#About the International Trade Administration
+<h3>About Us</h3>
+<p style="float: left; margin: 0 0.833em 0.208em 0;"><img src="/system/cms/files/10/files/original/city-moutains-coastline.jpg" alt="africa coastline" width="250" height="150" /></p>
 
-##Overview
-<p>The International Trade Administration (ITA) strengthens the competitiveness of U.S. industry, promotes trade and investment, and ensures fair trade through the rigorous enforcement of our trade laws and agreements. ITA works to improve the global business environment and helps U.S. organizations compete at home and abroad. ITA supports President Obama’s recovery agenda and the <a href="nei/index.asp">National Export Initiative</a> to sustain economic growth and support American jobs.</p>
-<p>ITA is organized into four distinct but complementary business units:</p>
-<p><a href="cs/"><strong>U.S. and Foreign Commercial Service</strong></a> — Promotes U.S. exports, particularly by small and medium-sized enterprises, and provides commercial diplomacy support for U.S. business interests around the world.</p>
-<p><a href="mas/"><strong>Manufacturing and Services</strong></a> — Strengthens U.S. competitiveness abroad by helping shape industry-specific trade policy.</p>
-<p><a href="mac/"><strong>Market Access and Compliance</strong></a> — Assists U.S. companies and helps create trade opportunities through the removal of market access barriers.</p>
-<p><a href="ia/"><strong>Import Administration</strong></a> — Enforces U.S. trade laws and agreements to prevent unfairly traded imports and to safeguard the competitive strength of U.S. businesses.</p>
-<h2><strong>More about ITA</strong></h2>
+<p>Sub-Saharan Africa presents enormous opportunities to the American private sector. According to the World Bank, its gross domestic product (GDP) totaled approximately $1.25 trillion in 2011, and six of the 10 fastest-growing economies in the world are in sub-Saharan Africa. U.S. total merchandise exports to sub-Saharan Africa tripled between 2001 and 2011.</p>
+
+<p>Economic growth is good news for American businesses and our friends in Africa. The growing African market is increasingly attractive to "Made in America" products and the "Doing Business in Africa" (DBIA) program is working to make it easier for U.S. firms to operate in this dynamic market.</p>
+
+<p>To achieve this goal, a whole-government approach will:</p>
+
 <ul>
-<li><a href="press/bios/index.asp">ITA Senior Staff</a></li>
-<li><a href="http://www.ita.doc.gov/ooms/itawrc.htm">ITA Organization Charts</a></li>
-<li><a href="http://trade.gov/cfo">Chief Financial Officer &amp; Office of Administration</a></li>
-<li><a href="http://trade.gov/PDFs/strategic-plan.pdf">Strategic Plan</a></li>
-<li><a href="http://www.trade.gov/omo/PMA/OrgOrd/OOMS_PM_DOOSDOAS_Landing.asp">Organizational Structure, Mission, and Statutory Authority</a></li>
-<li><a href="http://www.ita.doc.gov/ITAiqs.pdf">Information Quality Guidelines</a></li>
-<li><a href="privacy.asp">Privacy Policy</a></li>
-<li><a href="http://www.trade.gov/foia">FOIA</a></li>
-<li><a href="http://www.osec.doc.gov/ocr/nofear/nofear.htm">No FEAR Act</a></li>
-<li><a href="http://www.ita.doc.gov/hrm/documents/eeo_policy_statement.pdf">EEO/Diversity Policy Statement</a></li>
+
+<li>Promote more U.S. trade with Africa</li>
+
+<li>Increase trade financing</li>
+
+<li>Engage with important stakeholders &ndash; like the United States&rsquo; African Diaspora community &ndash; to ensure they have all the tools needed to do business in the African market.</li>
+
 </ul>
-<h3><strong>About the Department of Commerce</strong></h3>
+
+<p>To achieve these goals, DBIA is involved in a several initiatives:</p>
+
 <ul>
-<li><a href="http://www.commerce.gov" target="_blank">Department of Commerce</a></li>
-<li><a href="http://www.osec.doc.gov/bmi/budget/budgetsub_perf_strategicplans.htm" target="_blank">Department of Commerce Strategic Plan and Annual Performance Plans </a></li>
-<li><a href="http://204.193.232.34/cgi-bin/doit.cgi?204:112:ca6ff65e72b6f38e4fe42ea2ba9cf9358ad6df26eae063a68a6e8f420a9ac897:245" target="_blank">Department of Commerce Organizational Structure, Mission and Statutory Authority </a></li>
-<li><a href="http://ocio.os.doc.gov/ITPolicyandPrograms/Information_Collection/PROD01_001987" target="_blank">Department of Commerce Point of Contact for Small Business </a></li>
-<li><a href="http://www.osec.doc.gov/ocr/nofear/nofear.htm" target="_blank">No FEAR Act </a></li>
+
+<li>Organizing an Africa Global Business Summit Series so that U.S. companies can hear directly from our Ambassadors in Africa and Senior Commercial Officers about opportunities in the region</li>
+
+<li>Opening the U.S.-Africa Clean Energy Development and Finance Center in Johannesburg, South Africa in 2013 to help identify and access U.S. government support for clean energy export and investment needs</li>
+
+<li>Developing an Africa Business Portal, providing valuable information about trade assistance programs and financing.</li>
+
 </ul>
-<h3><strong>About the Federal Government</strong></h3>
-<ul>
-<li><a href="http://www.usa.gov" target="_blank">USA.gov</a></li>
-</ul>
-<h3><strong>Other ITA Managed Websites</strong></h3>
-<ul>
-<li><a href="http://www.export.gov">Export.gov</a></li>
-<li><a href="http://www.BuyUSA.gov">BuyUSA.gov</a></li>
-<li><a href="http://www.InvestAmerica.gov">InvestAmerica.gov</a></li>
-<li><a href="http://www.agoa.gov">AGOA.gov</a></li>
-<li><a href="http://www.stopfakes.gov">Stopfakes.gov</a></li>
-</ul>
+
+<p>This campaign will leverage the resources from across the federal government's trade promotion, financing and strategic communications capabilities to help U.S. businesses identify and seize opportunities in Africa, and to help them overcome any challenges they face to establishing business relationships with Africa.</p>
+
 
