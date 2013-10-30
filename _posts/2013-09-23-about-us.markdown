@@ -7,7 +7,7 @@ published: true
 
 
 <h3>About Us</h3>
-<p style="float: left; margin: 0 0.833em 0.208em 0;"><img src="images/cityabout.jpg" alt="africa coastline" width="250" height="150" /></p>
+<p style="float: left; margin: 0 0.833em 0.208em 0;"><img src="/images/cityabout.jpg" alt="africa coastline" width="250" height="150" /></p>
 
 <p>Sub-Saharan Africa presents enormous opportunities to the American private sector. According to the World Bank, its gross domestic product (GDP) totaled approximately $1.25 trillion in 2011, and six of the 10 fastest-growing economies in the world are in sub-Saharan Africa. U.S. total merchandise exports to sub-Saharan Africa tripled between 2001 and 2011.</p>
 
